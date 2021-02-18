@@ -1098,6 +1098,233 @@ Any bug found on a product version, will be solved in the latest major version a
                         </div>
                     </div>
                     <!-- /.panel -->            
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseTwentynine">Azure Databricks</a>
+                            </h4>
+                        </div>
+                        <div id="collapseTwentynine" class="panel-collapse collapse noCrossRef">
+                            <div class="panel-body">
+                            <p>Azure Databricks is a data analytics platform optimized for the Microsoft Azure cloud services platform. Azure Databricks offers two environments for developing data intensive applications: Azure Databricks SQL Analytics and Azure Databricks Workspace.</p><br>
+                            <a href="https://docs.microsoft.com/en-us/azure/databricks/scenarios/what-is-azure-databricks">Azure Documentation</a><br>
+                            <hr>
+                            <table>
+                              <thead>
+                              <tr>
+                                  <th>iac.az.modules.databricks-sm</th>
+                                  <th></th>
+                              </tr>
+                              </thead>
+                              <tbody>
+                              <tr>
+                                  <td>Git Repo</td>
+                                  <td><a href="https://github.alm.europe.cloudcenter.corp/sgt-cloudplatform/iac.az.modules.databricks-sm/tree/v1.0.0">Source Code</a></td>
+                              </tr>
+                              <tr>
+                                  <td>README</td>
+                                  <td><a href="https://github.alm.europe.cloudcenter.corp/sgt-cloudplatform/iac.az.modules.databricks-sm/blob/v1.0.0/README.md">README</a> </td>
+                              </tr>
+                              <tr>
+                                  <td><b>Latest Release Version</b></td>
+                                  <td><b>v1.0.0</b></td>
+                              </tr>
+                              <tr>
+                                  <td>Status</td>
+                                  <td>Published</td>
+                              </tr>
+                              <tr>
+                                  <td>Support</td>
+                                  <td>Yes</td>
+                              </tr>
+                              </tbody>
+                            </table>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.panel -->            
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseTwentynine">Azure Log Analytics</a>
+                            </h4>
+                        </div>
+                        <div id="collapseTwentynine" class="panel-collapse collapse noCrossRef">
+                            <div class="panel-body">
+                            <p>A Log Analytics workspace is a unique environment for Azure Monitor log data. Each workspace has its own data repository and configuration, and data sources and solutions are configured to store their data in a particular workspace.</p><br>
+                            <a href="https://docs.microsoft.com/en-us/azure/azure-monitor/overview">Azure Documentation</a><br>
+                            <hr>
+                            <table>
+                              <thead>
+                              <tr>
+                                  <th>iac.az.modules.lwk-sm</th>
+                                  <th></th>
+                              </tr>
+                              </thead>
+                              <tbody>
+                              <tr>
+                                  <td>Git Repo</td>
+                                  <td><a href="https://github.alm.europe.cloudcenter.corp/sgt-cloudplatform/iac.az.modules.lwk-sm/tree/v1.0.0">Source Code</a></td>
+                              </tr>
+                              <tr>
+                                  <td>README</td>
+                                  <td><a href="https://github.alm.europe.cloudcenter.corp/sgt-cloudplatform/iac.az.modules.lwk-sm/blob/v1.0.0/README.md">README</a> </td>
+                              </tr>
+                              <tr>
+                                  <td><b>Latest Release Version</b></td>
+                                  <td><b>v1.0.0</b></td>
+                              </tr>
+                              <tr>
+                                  <td>Status</td>
+                                  <td>Published</td>
+                              </tr>
+                              <tr>
+                                  <td>Support</td>
+                                  <td>Yes</td>
+                              </tr>
+                              </tbody>
+                            </table>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.panel -->  
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseTwentynine">Azure Data Factory</a>
+                            </h4>
+                        </div>
+                        <div id="collapseTwentynine" class="panel-collapse collapse noCrossRef">
+                            <div class="panel-body">
+                            <p>Azure Data Factory is Azure's cloud ETL service for scale-out serverless data integration and data transformation. It offers a code-free UI for intuitive authoring and single-pane-of-glass monitoring and management. You can also lift and shift existing SSIS packages to Azure and run them with full compatibility in ADF. SSIS Integration Runtime offers a fully managed service, so you don't have to worry about infrastructure management.</p><br>
+                            <a href="https://docs.microsoft.com/en-us/azure/data-factory/">Azure Documentation</a><br>
+                            <hr>
+                            <table>
+                              <thead>
+                              <tr>
+                                  <th>iac.az.modules.data-factory-sm</th>
+                                  <th></th>
+                              </tr>
+                              </thead>
+                              <tbody>
+                              <tr>
+                                  <td>Git Repo</td>
+                                  <td><a href="https://github.alm.europe.cloudcenter.corp/sgt-cloudplatform/iac.az.modules.data-factory-sm/tree/v1.0.0">Source Code</a></td>
+                              </tr>
+                              <tr>
+                                  <td>README</td>
+                                  <td><a href="https://github.alm.europe.cloudcenter.corp/sgt-cloudplatform/iac.az.modules.data-factory-sm/blob/v1.0.0/README.md">README</a> </td>
+                              </tr>
+                              <tr>
+                                  <td><b>Latest Release Version</b></td>
+                                  <td><b>v1.0.0</b></td>
+                              </tr>
+                              <tr>
+                                  <td>Status</td>
+                                  <td>Published</td>
+                              </tr>
+                              <tr>
+                                  <td>Support</td>
+                                  <td>Yes</td>
+                              </tr>
+                              </tbody>
+                            </table>
+                            </div>
+                        </div>
+                    </div>        
+                    <!-- /.panel -->  
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseTwentynine">Azure Database for MariaDB</a>
+                            </h4>
+                        </div>
+                        <div id="collapseTwentynine" class="panel-collapse collapse noCrossRef">
+                            <div class="panel-body">
+                            <p>Azure Database for MariaDB is a relational database service in the Microsoft cloud. Azure Database for MariaDB is based on the MariaDB community edition (available under the GPLv2 license) database engine, version 10.2 and 10.3.</p><br>
+                            <a href="https://docs.microsoft.com/en-us/azure/data-factory/">Azure Documentation</a><br>
+                            <hr>
+                            <table>
+                              <thead>
+                              <tr>
+                                  <th>eac.az.modules.maria-db</th>
+                                  <th></th>
+                              </tr>
+                              </thead>
+                              <tbody>
+                              <tr>
+                                  <td>Git Repo</td>
+                                  <td><a href="https://github.alm.europe.cloudcenter.corp/sgt-cloudplatform/eac.az.modules.maria-db/tree/v1.0.0">Source Code</a></td>
+                              </tr>
+                              <tr>
+                                  <td>README</td>
+                                  <td><a href="https://github.alm.europe.cloudcenter.corp/sgt-cloudplatform/eac.az.modules.maria-db/blob/v1.0.0/README.md">README</a> </td>
+                              </tr>
+                              <tr>
+                                  <td><b>Latest Release Version</b></td>
+                                  <td><b>v1.0.0</b></td>
+                              </tr>
+                              <tr>
+                                  <td>Status</td>
+                                  <td>Published</td>
+                              </tr>
+                              <tr>
+                                  <td>Support</td>
+                                  <td>Yes</td>
+                              </tr>
+                              </tbody>
+                            </table>
+                            </div>
+                        </div>
+                    </div>    
+                    <!-- /.panel -->  
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseTwentynine">Qualys</a>
+                            </h4>
+                        </div>
+                        <div id="collapseTwentynine" class="panel-collapse collapse noCrossRef">
+                            <div class="panel-body">
+                            <p>Qualys Virtual Scanner Appliance helps you get a continuous view of security and compliance putting a spotlight on your Azure Cloud infrastructure. It’s a stateless resource that acts as an extension to the Qualys Cloud Platform. Once configured, all functionality is managed using your Qualys Cloud Platform account.</p><br>
+                            <a href="https://docs.microsoft.com/es-es/azure/security-center/deploy-vulnerability-assessment-vm">Azure Documentation</a><br>
+                            <hr>
+                            <table>
+                              <thead>
+                              <tr>
+                                  <th>iac.az.modules.qualys</th>
+                                  <th></th>
+                              </tr>
+                              </thead>
+                              <tbody>
+                              <tr>
+                                  <td>Git Repo</td>
+                                  <td><a href="https://github.alm.europe.cloudcenter.corp/sgt-cloudplatform/iac.az.modules.qualys/tree/v1.0.0">Source Code</a></td>
+                              </tr>
+                              <tr>
+                                  <td>README</td>
+                                  <td><a href="https://github.alm.europe.cloudcenter.corp/sgt-cloudplatform/iac.az.modules.qualys/blob/v1.0.0/README.md">README</a> </td>
+                              </tr>
+                              <tr>
+                                  <td><b>Latest Release Version</b></td>
+                                  <td><b>v1.0.0</b></td>
+                              </tr>
+                              <tr>
+                                  <td>Status</td>
+                                  <td>Published</td>
+                              </tr>
+                              <tr>
+                                  <td>Support</td>
+                                  <td>Yes</td>
+                              </tr>
+                              </tbody>
+                            </table>
+                            </div>
+                        </div>
+                    </div>   
+                    
+
+                    
 </div>
 <!-- /.panel-group -->
 
