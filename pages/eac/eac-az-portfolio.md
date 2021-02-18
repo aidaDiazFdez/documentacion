@@ -65,11 +65,11 @@ Any bug found on a product version, will be solved in the latest major version a
                               <tbody>
                               <tr>
                                   <td>Git Repo</td>
-                                  <td><a href="https://github.alm.europe.cloudcenter.corp/ccc-ccoe/iac.az.modules.aps-sm/tree/v2.2.0">Source Code</a></td>
+                                  <td><a href="https://github.alm.europe.cloudcenter.corp/sgt-cloudplatform/iac.az.modules.aps-sm/tree/v2.2.0">Source Code</a></td>
                               </tr>
                               <tr>
                                   <td>README</td>
-                                  <td><a href="https://github.alm.europe.cloudcenter.corp/ccc-ccoe/iac.az.modules.aps-sm/blob/v2.2.0/README.md">README</a> </td>
+                                  <td><a href="https://github.alm.europe.cloudcenter.corpsgt-cloudplatform/iac.az.modules.aps-sm/blob/v2.2.0/README.md">README</a> </td>
                               </tr>
                               <tr>
                                   <td><b>Latest Release Version</b></td>
@@ -110,11 +110,11 @@ Any bug found on a product version, will be solved in the latest major version a
                               <tbody>
                               <tr>
                                   <td>Git Repo</td>
-                                  <td><a href="https://github.alm.europe.cloudcenter.corp/ccc-ccoe/iac.az.modules.waf-sm/tree/v2.1.1">Source Code</a></td>
+                                  <td><a href="https://github.alm.europe.cloudcenter.corp/sgt-cloudplatform/iac.az.modules.waf-sm/tree/v2.1.1">Source Code</a></td>
                               </tr>
                               <tr>
                                   <td>README</td>
-                                  <td><a href="https://github.alm.europe.cloudcenter.corp/ccc-ccoe/iac.az.modules.waf-sm/blob/v2.1.1/README.md">README</a> </td>
+                                  <td><a href="https://github.alm.europe.cloudcenter.corp/sgt-cloudplatform/iac.az.modules.waf-sm/blob/v2.1.1/README.md">README</a> </td>
                               </tr>
                               <tr>
                                   <td><b>Latest Release Version</b></td>
@@ -155,11 +155,11 @@ Any bug found on a product version, will be solved in the latest major version a
                               <tbody>
                               <tr>
                                   <td>Git Repo</td>
-                                  <td><a href="https://github.alm.europe.cloudcenter.corp/ccc-ccoe/iac.az.modules.ams/tree/v2.1.0-beta.1">Source Code</a></td>
+                                  <td><a href="https://github.alm.europe.cloudcenter.corp/sgt-cloudplatform/iac.az.modules.ams/tree/v2.1.0-beta.1">Source Code</a></td>
                               </tr>
                               <tr>
                                   <td>README</td>
-                                  <td><a href="https://github.alm.europe.cloudcenter.corp/ccc-ccoe/iac.az.modules.ams/blob/v2.1.0-beta.1/README.md">README</a> </td>
+                                  <td><a href="https://github.alm.europe.cloudcenter.corp/sgt-cloudplatform/iac.az.modules.ams/blob/v2.1.0-beta.1/README.md">README</a> </td>
                               </tr>
                               <tr>
                                   <td><b>Latest Release Version</b></td>
@@ -200,11 +200,11 @@ Any bug found on a product version, will be solved in the latest major version a
                               <tbody>
                               <tr>
                                   <td>Git Repo</td>
-                                  <td><a href="https://github.alm.europe.cloudcenter.corp/ccc-ccoe/iac.az.modules.azure-sql-sm/tree/v2.1.0-beta1">Source Code</a></td>
+                                  <td><a href="https://github.alm.europe.cloudcenter.corp/sgt-cloudplatform/iac.az.modules.azure-sql-sm/tree/v2.1.0-beta1">Source Code</a></td>
                               </tr>
                               <tr>
                                   <td>README</td>
-                                  <td><a href="https://github.alm.europe.cloudcenter.corp/ccc-ccoe/iac.az.modules.azure-sql-sm/blob/v2.1.0-beta1/README.md">README</a> </td>
+                                  <td><a href="https://github.alm.europe.cloudcenter.corp/sgt-cloudplatform/iac.az.modules.azure-sql-sm/blob/v2.1.0-beta1/README.md">README</a> </td>
                               </tr>
                               <tr>
                                   <td><b>Latest Release Version</b></td>
@@ -246,11 +246,11 @@ Any bug found on a product version, will be solved in the latest major version a
                               <tbody>
                               <tr>
                                   <td>Git Repo</td>
-                                  <td><a href="https://github.alm.europe.cloudcenter.corp/ccc-ccoe/iac.az.modules.databricks-sm/tree/v2.1.0-beta1">Source Code</a></td>
+                                  <td><a href="https://github.alm.europe.cloudcenter.corp/sgt-cloudplatform/iac.az.modules.databricks-sm/tree/v2.1.0-beta1">Source Code</a></td>
                               </tr>
                               <tr>
                                   <td>README</td>
-                                  <td><a href="https://github.alm.europe.cloudcenter.corp/ccc-ccoe/iac.az.modules.databricks-sm/blob/v2.1.0-beta1/README.md">README</a> </td>
+                                  <td><a href="https://github.alm.europe.cloudcenter.corp/sgt-cloudplatform/iac.az.modules.databricks-sm/blob/v2.1.0-beta1/README.md">README</a> </td>
                               </tr>
                               <tr>
                                   <td><b>Latest Release Version</b></td>
@@ -291,11 +291,11 @@ Any bug found on a product version, will be solved in the latest major version a
                               <tbody>
                               <tr>
                                   <td>Git Repo</td>
-                                  <td><a href="https://github.alm.europe.cloudcenter.corp/ccc-ccoe/iac.az.modules.aci-sm/tree/v2.1.0-beta.1">Source Code</a></td>
+                                  <td><a href="https://github.alm.europe.cloudcenter.corp/sgt-cloudplatform/iac.az.modules.aci-sm/tree/v2.1.0-beta.1">Source Code</a></td>
                               </tr>
                               <tr>
                                   <td>README</td>
-                                  <td><a href="https://github.alm.europe.cloudcenter.corp/ccc-ccoe/iac.az.modules.aci-sm/blob/v2.1.0-beta.1/README.md">README</a> </td>
+                                  <td><a href="https://github.alm.europe.cloudcenter.corp/sgt-cloudplatform/iac.az.modules.aci-sm/blob/v2.1.0-beta.1/README.md">README</a> </td>
                               </tr>
                               <tr>
                                   <td><b>Latest Release Version</b></td>
@@ -336,11 +336,11 @@ Any bug found on a product version, will be solved in the latest major version a
                               <tbody>
                               <tr>
                                   <td>Git Repo</td>
-                                  <td><a href="https://github.alm.europe.cloudcenter.corp/ccc-ccoe/iac.az.modules.data-lake-storage-gen1-sm/tree/v2.1.0">Source Code</a></td>
+                                  <td><a href="https://github.alm.europe.cloudcenter.corp/sgt-cloudplatform/iac.az.modules.data-lake-storage-gen1-sm/tree/v2.1.0">Source Code</a></td>
                               </tr>
                               <tr>
                                   <td>README</td>
-                                  <td><a href="https://github.alm.europe.cloudcenter.corp/ccc-ccoe/iac.az.modules.data-lake-storage-gen1-sm/blob/v2.1.0/README.md">README</a> </td>
+                                  <td><a href="https://github.alm.europe.cloudcenter.corp/sgt-cloudplatform/iac.az.modules.data-lake-storage-gen1-sm/blob/v2.1.0/README.md">README</a> </td>
                               </tr>
                               <tr>
                                   <td><b>Latest Release Version</b></td>
@@ -382,11 +382,11 @@ Any bug found on a product version, will be solved in the latest major version a
                               <tbody>
                               <tr>
                                   <td>Git Repo</td>
-                                  <td><a href="https://github.alm.europe.cloudcenter.corp/ccc-ccoe/iac.az.modules.event-hub-sm/tree/v2.0.0">Source Code</a></td>
+                                  <td><a href="https://github.alm.europe.cloudcenter.corp/sgt-cloudplatform/iac.az.modules.event-hub-sm/tree/v2.0.0">Source Code</a></td>
                               </tr>
                               <tr>
                                   <td>README</td>
-                                  <td><a href="https://github.alm.europe.cloudcenter.corp/ccc-ccoe/iac.az.modules.event-hub-sm/blob/v2.0.0/README.md">README</a> </td>
+                                  <td><a href="https://github.alm.europe.cloudcenter.corp/sgt-cloudplatform/iac.az.modules.event-hub-sm/blob/v2.0.0/README.md">README</a> </td>
                               </tr>
                               <tr>
                                   <td><b>Latest Release Version</b></td>
@@ -428,11 +428,11 @@ Any bug found on a product version, will be solved in the latest major version a
                               <tbody>
                               <tr>
                                   <td>Git Repo</td>
-                                  <td><a href="https://github.alm.europe.cloudcenter.corp/ccc-ccoe/iac.az.modules.application-insights-sm/tree/v2.1.0-beta1">Source Code</a></td>
+                                  <td><a href="https://github.alm.europe.cloudcenter.corp/sgt-cloudplatform/iac.az.modules.application-insights-sm/tree/v2.1.0-beta1">Source Code</a></td>
                               </tr>
                               <tr>
                                   <td>README</td>
-                                  <td><a href="https://github.alm.europe.cloudcenter.corp/ccc-ccoe/iac.az.modules.application-insights-sm/blob/v2.1.0-beta1/README.md">README</a> </td>
+                                  <td><a href="https://github.alm.europe.cloudcenter.corp/sgt-cloudplatform/iac.az.modules.application-insights-sm/blob/v2.1.0-beta1/README.md">README</a> </td>
                               </tr>
                               <tr>
                                   <td><b>Latest Release Version</b></td>
@@ -473,11 +473,11 @@ Any bug found on a product version, will be solved in the latest major version a
                               <tbody>
                               <tr>
                                   <td>Git Repo</td>
-                                  <td><a href="https://github.alm.europe.cloudcenter.corp/ccc-ccoe/iac.az.modules.app-service-sm/tree/v2.1.0">Source Code</a></td>
+                                  <td><a href="https://github.alm.europe.cloudcenter.corp/sgt-cloudplatform/iac.az.modules.app-service-sm/tree/v2.1.0">Source Code</a></td>
                               </tr>
                               <tr>
                                   <td>README</td>
-                                  <td><a href="https://github.alm.europe.cloudcenter.corp/ccc-ccoe/iac.az.modules.app-service-sm/blob/v2.1.0/README.md">README</a></td>
+                                  <td><a href="https://github.alm.europe.cloudcenter.corp/sgt-cloudplatform/iac.az.modules.app-service-sm/blob/v2.1.0/README.md">README</a></td>
                               </tr>
                               <tr>
                                   <td><b>Latest Release Version</b></td>
@@ -518,11 +518,11 @@ Any bug found on a product version, will be solved in the latest major version a
                               <tbody>
                               <tr>
                                   <td>Git Repo</td>
-                                  <td><a href="https://github.alm.europe.cloudcenter.corp/ccc-ccoe/iac.az.modules.redis-cache-sm/tree/v2.1.1-beta.1">Source Code</a></td>
+                                  <td><a href="https://github.alm.europe.cloudcenter.corp/sgt-cloudplatform/iac.az.modules.redis-cache-sm/tree/v2.1.1-beta.1">Source Code</a></td>
                               </tr>
                               <tr>
                                   <td>README</td>
-                                  <td><a href="https://github.alm.europe.cloudcenter.corp/ccc-ccoe/iac.az.modules.redis-cache-sm/blob/v2.1.1-beta.1/README.md">README</a> </td>
+                                  <td><a href="https://github.alm.europe.cloudcenter.corp/sgt-cloudplatform/iac.az.modules.redis-cache-sm/blob/v2.1.1-beta.1/README.md">README</a> </td>
                               </tr>
                               <tr>
                                   <td><b>Latest Release Version</b></td>
@@ -563,11 +563,11 @@ Any bug found on a product version, will be solved in the latest major version a
                               <tbody>
                               <tr>
                                   <td>Git Repo</td>
-                                  <td><a href="https://github.alm.europe.cloudcenter.corp/ccc-ccoe/iac.az.modules.ase-sm/tree/v2.0.0-beta1">Source Code</a></td>
+                                  <td><a href="https://github.alm.europe.cloudcenter.corp/sgt-cloudplatform/iac.az.modules.ase-sm/tree/v2.0.0-beta1">Source Code</a></td>
                               </tr>
                               <tr>
                                   <td>README</td>
-                                  <td><a href="https://github.alm.europe.cloudcenter.corp/ccc-ccoe/iac.az.modules.ase-sm/blob/v2.0.0-beta1/README.md">README</a></td>
+                                  <td><a href="https://github.alm.europe.cloudcenter.corp/sgt-cloudplatform/iac.az.modules.ase-sm/blob/v2.0.0-beta1/README.md">README</a></td>
                               </tr>
                               <tr>
                                   <td><b>Latest Release Version</b></td>
@@ -608,11 +608,11 @@ Any bug found on a product version, will be solved in the latest major version a
                               <tbody>
                               <tr>
                                   <td>Git Repo</td>
-                                  <td><a href="https://github.alm.europe.cloudcenter.corp/ccc-ccoe/iac.az.modules.cosmosdb-sm/tree/v2.1.0">Source Code</a></td>
+                                  <td><a href="https://github.alm.europe.cloudcenter.corp/sgt-cloudplatform/iac.az.modules.cosmosdb-sm/tree/v2.1.0">Source Code</a></td>
                               </tr>
                               <tr>
                                   <td>README</td>
-                                  <td><a href="https://github.alm.europe.cloudcenter.corp/ccc-ccoe/iac.az.modules.cosmosdb-sm/blob/v2.1.0/README.md">README</a> </td>
+                                  <td><a href="https://github.alm.europe.cloudcenter.corp/sgt-cloudplatform/iac.az.modules.cosmosdb-sm/blob/v2.1.0/README.md">README</a> </td>
                               </tr>
                               <tr>
                                   <td><b>Latest Release Version</b></td>
@@ -653,11 +653,11 @@ Any bug found on a product version, will be solved in the latest major version a
                               <tbody>
                               <tr>
                                   <td>Git Repo</td>
-                                  <td><a href="https://github.alm.europe.cloudcenter.corp/ccc-ccoe/iac.az.modules.sql-data-warehouse-sm/tree/v2.1.0">Source Code</a></td>
+                                  <td><a href="https://github.alm.europe.cloudcenter.corp/sgt-cloudplatform/iac.az.modules.sql-data-warehouse-sm/tree/v2.1.0">Source Code</a></td>
                               </tr>
                               <tr>
                                   <td>README</td>
-                                  <td><a href="https://github.alm.europe.cloudcenter.corp/ccc-ccoe/iac.az.modules.sql-data-warehouse-sm/blob/v2.1.0/README.md">README</a> </td>
+                                  <td><a href="https://github.alm.europe.cloudcenter.corp/sgt-cloudplatform/iac.az.modules.sql-data-warehouse-sm/blob/v2.1.0/README.md">README</a> </td>
                               </tr>
                               <tr>
                                   <td><b>Latest Release Version</b></td>
@@ -707,11 +707,11 @@ Any bug found on a product version, will be solved in the latest major version a
                               <tbody>
                               <tr>
                                   <td>Git Repo</td>
-                                  <td><a href="https://github.alm.europe.cloudcenter.corp/ccc-ccoe/iac.az.modules.hdi-kafka-sa/tree/v2.1.0-beta.1">Source Code</a></td>
+                                  <td><a href="https://github.alm.europe.cloudcenter.corp/sgt-cloudplatform/iac.az.modules.hdi-kafka-sa/tree/v2.1.0-beta.1">Source Code</a></td>
                               </tr>
                               <tr>
                                   <td>README</td>
-                                  <td><a href="https://github.alm.europe.cloudcenter.corp/ccc-ccoe/iac.az.modules.hdi-kafka-sa/blob/v2.1.0-beta.1/README.md">README</a> </td>
+                                  <td><a href="https://github.alm.europe.cloudcenter.corp/sgt-cloudplatform/iac.az.modules.hdi-kafka-sa/blob/v2.1.0-beta.1/README.md">README</a> </td>
                               </tr>
                               <tr>
                                   <td><b>Latest Release Version</b></td>
@@ -752,11 +752,11 @@ Any bug found on a product version, will be solved in the latest major version a
                               <tbody>
                               <tr>
                                   <td>Git Repo</td>
-                                  <td><a href="https://github.alm.europe.cloudcenter.corp/ccc-ccoe/iac.az.modules.lba-sm/tree/v2.1.0">Source Code</a></td>
+                                  <td><a href="https://github.alm.europe.cloudcenter.corp/sgt-cloudplatform/iac.az.modules.lba-sm/tree/v2.1.0">Source Code</a></td>
                               </tr>
                               <tr>
                                   <td>README</td>
-                                  <td><a href="https://github.alm.europe.cloudcenter.corp/ccc-ccoe/iac.az.modules.lba-sm/blob/v2.1.0/README.md">README</a> </td>
+                                  <td><a href="https://github.alm.europe.cloudcenter.corp/sgt-cloudplatform/iac.az.modules.lba-sm/blob/v2.1.0/README.md">README</a> </td>
                               </tr>
                               <tr>
                                   <td><b>Latest Release Version</b></td>
@@ -796,11 +796,11 @@ Any bug found on a product version, will be solved in the latest major version a
                               <tbody>
                               <tr>
                                   <td>Git Repo</td>
-                                  <td><a href="https://github.alm.europe.cloudcenter.corp/ccc-ccoe/iac.az.modules.mss-sm/tree/v2.2.0-beta1">Source Code</a></td>
+                                  <td><a href="https://github.alm.europe.cloudcenter.corp/sgt-cloudplatform/iac.az.modules.mss-sm/tree/v2.2.0-beta1">Source Code</a></td>
                               </tr>
                               <tr>
                                   <td>README</td>
-                                  <td><a href="https://github.alm.europe.cloudcenter.corp/ccc-ccoe/iac.az.modules.mss-sm/blob/v2.2.0-beta1/README.md">README</a> </td>
+                                  <td><a href="https://github.alm.europe.cloudcenter.corp/sgt-cloudplatform/iac.az.modules.mss-sm/blob/v2.2.0-beta1/README.md">README</a> </td>
                               </tr>
                               <tr>
                                   <td><b>Latest Release Version</b></td>
@@ -841,11 +841,11 @@ Any bug found on a product version, will be solved in the latest major version a
                               <tbody>
                               <tr>
                                   <td>Git Repo</td>
-                                  <td><a href="https://github.alm.europe.cloudcenter.corp/ccc-ccoe/iac.az.modules.virtual-machine-sm/tree/v2.4.0">Source Code</a></td>
+                                  <td><a href="https://github.alm.europe.cloudcenter.corp/sgt-cloudplatform/iac.az.modules.virtual-machine-sm/tree/v2.4.0">Source Code</a></td>
                               </tr>
                               <tr>
                                   <td>README</td>
-                                  <td><a href="https://github.alm.europe.cloudcenter.corp/ccc-ccoe/iac.az.modules.virtual-machine-sm/blob/v2.4.0/README.md">README</a> </td>
+                                  <td><a href="https://github.alm.europe.cloudcenter.corp/sgt-cloudplatform/iac.az.modules.virtual-machine-sm/blob/v2.4.0/README.md">README</a> </td>
                               </tr>
                               <tr>
                                   <td><b>Latest Release Version</b></td>
@@ -885,11 +885,11 @@ Any bug found on a product version, will be solved in the latest major version a
                               <tbody>
                               <tr>
                                   <td>Git Repo</td>
-                                  <td><a href="https://github.alm.europe.cloudcenter.corp/ccc-ccoe/iac.az.modules.virtual-machine-unmanaged-disks-sm/tree/v2.1.0">Source Code</a></td>
+                                  <td><a href="https://github.alm.europe.cloudcenter.corp/sgt-cloudplatform/iac.az.modules.virtual-machine-unmanaged-disks-sm/tree/v2.1.0">Source Code</a></td>
                               </tr>
                               <tr>
                                   <td>README</td>
-                                  <td><a href="https://github.alm.europe.cloudcenter.corp/ccc-ccoe/iac.az.modules.virtual-machine-unmanaged-disks-sm/blob/v2.1.0/README.md">README</a> </td>
+                                  <td><a href="https://github.alm.europe.cloudcenter.corp/sgt-cloudplatform/iac.az.modules.virtual-machine-unmanaged-disks-sm/blob/v2.1.0/README.md">README</a> </td>
                               </tr>
                               <tr>
                                   <td><b>Latest Release Version</b></td>
@@ -930,11 +930,11 @@ Any bug found on a product version, will be solved in the latest major version a
                               <tbody>
                               <tr>
                                   <td>Git Repo</td>
-                                  <td><a href="https://github.alm.europe.cloudcenter.corp/ccc-ccoe/iac.az.modules.vmss-sm/tree/v2.1.0-beta.1">Source Code</a></td>
+                                  <td><a href="https://github.alm.europe.cloudcenter.corp/sgt-cloudplatform/iac.az.modules.vmss-sm/tree/v2.1.0-beta.1">Source Code</a></td>
                               </tr>
                               <tr>
                                   <td>README</td>
-                                  <td><a href="https://github.alm.europe.cloudcenter.corp/ccc-ccoe/iac.az.modules.vmss-sm/blob/v2.1.0-beta.1/README.md">README</a> </td>
+                                  <td><a href="https://github.alm.europe.cloudcenter.corp/sgt-cloudplatform/iac.az.modules.vmss-sm/blob/v2.1.0-beta.1/README.md">README</a> </td>
                               </tr>
                               <tr>
                                   <td><b>Latest Release Version</b></td>
@@ -976,11 +976,11 @@ Any bug found on a product version, will be solved in the latest major version a
                               <tbody>
                               <tr>
                                   <td>Git Repo</td>
-                                  <td><a href="https://github.alm.europe.cloudcenter.corp/ccc-ccoe/iac.az.modules.avs/tree/v2.1.0">Source Code</a></td>
+                                  <td><a href="https://github.alm.europe.cloudcenter.corp/sgt-cloudplatform/iac.az.modules.avs/tree/v2.1.0">Source Code</a></td>
                               </tr>
                               <tr>
                                   <td>README</td>
-                                  <td><a href="https://github.alm.europe.cloudcenter.corp/ccc-ccoe/iac.az.modules.avs/blob/v2.1.0/README.md">README</a> </td>
+                                  <td><a href="https://github.alm.europe.cloudcenter.corp/sgt-cloudplatform/iac.az.modules.avs/blob/v2.1.0/README.md">README</a> </td>
                               </tr>
                               <tr>
                                   <td><b>Latest Release Version</b></td>
@@ -1029,11 +1029,11 @@ Any bug found on a product version, will be solved in the latest major version a
                               <tbody>
                               <tr>
                                   <td>Git Repo</td>
-                                  <td><a href="https://github.alm.europe.cloudcenter.corp/ccc-ccoe/iac.az.modules.functions/tree/v2.1.0">Source Code</a></td>
+                                  <td><a href="https://github.alm.europe.cloudcenter.corp/sgt-cloudplatform/iac.az.modules.functions/tree/v2.1.0">Source Code</a></td>
                               </tr>
                               <tr>
                                   <td>README</td>
-                                  <td><a href="https://github.alm.europe.cloudcenter.corp/ccc-ccoe/iac.az.modules.functions/blob/v2.1.0/README.md">README</a> </td>
+                                  <td><a href="https://github.alm.europe.cloudcenter.corp/sgt-cloudplatform/iac.az.modules.functions/blob/v2.1.0/README.md">README</a> </td>
                               </tr>
                               <tr>
                                   <td><b>Latest Release Version</b></td>
@@ -1074,11 +1074,11 @@ Any bug found on a product version, will be solved in the latest major version a
                               <tbody>
                               <tr>
                                   <td>Git Repo</td>
-                                  <td><a href="https://github.alm.europe.cloudcenter.corp/ccc-ccoe/iac.az.modules.appgateway-v2-sm/tree/v1.0.0">Source Code</a></td>
+                                  <td><a href="https://github.alm.europe.cloudcenter.corp/sgt-cloudplatform/iac.az.modules.appgateway-v2-sm/tree/v1.0.0">Source Code</a></td>
                               </tr>
                               <tr>
                                   <td>README</td>
-                                  <td><a href="https://github.alm.europe.cloudcenter.corp/ccc-ccoe/iac.az.modules.appgateway-v2-sm/blob/v1.0.0/README.md">README</a> </td>
+                                  <td><a href="https://github.alm.europe.cloudcenter.corp/sgt-cloudplatform/iac.az.modules.appgateway-v2-sm/blob/v1.0.0/README.md">README</a> </td>
                               </tr>
                               <tr>
                                   <td><b>Latest Release Version</b></td>
