@@ -1,0 +1,90 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: Azure
+  version: 
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: Main
+    output: web, pdf
+    folderitems:
+
+    - title: Return Home
+      url: /index.html
+      output: web, pdf
+
+
+  - title: General Documentation
+    output: web, pdf
+    folderitems:
+
+    - title: Azure Onboarding
+      url: /azure-onboarding.html
+      output: web, pdf
+
+    - title: Azure Billing
+      url: /azure-billing.html
+      output: web, pdf
+    
+    - title: Azure from cost identification to billing
+      url: /azure-from-cost-identification-to-billing.html
+      output: web, pdf
+
+    - title: Azure Reserved Instances
+      url: /azure-reserved-instances.html
+      output: web, pdf
+    
+    - title: Azure Enrollment Hierarchy, Roles & Subscriptions
+      url: /azure-enrollment-hierarchy-roles-and-subscriptions.html
+      output: web, pdf
+      subfolders:
+    
+      - title: Azure Naming Convention
+        output: web, pdf
+        subfolderitems:
+
+        - title: Naming Convention for Azure resources
+          url: /azure-naming-convention-resources.html
+          output: web, pdf
+
+        - title: Excel Simulator for Azure Naming Convention
+          url: /azure-naming-convention-excel-simulator.html
+          output: web, pdf
+
+        - title: Azure Tagging
+          url: /azure-tagging.html
+          output: web, pdf
+
+    - title: Azure Network
+      url: /azure-network.html
+      output: web, pdf
+    
+    - title: Azure Architecture Building Blocks 
+      url: /azure-architecture-building-blocks.html
+      output: web, pdf
+
+    - title: Azure Service Principal Manager API
+      url: /azure-service-principal-manager-api.html
+      output: web, pdf
+
+    - title: Azure Openshift Enrollment
+      url: /azure-openshift-enrollment.html
+      output: web, pdf
+
+    - title: Azure list of contacts
+      url: /azure-list-of-contacts.html
+      output: web, pdf

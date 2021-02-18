@@ -1,0 +1,94 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: AWS General Documentation 
+  version: 
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: Main
+    output: web, pdf
+    folderitems:
+
+    - title: Return Home
+      url: /index.html
+      output: web, pdf
+
+  - title: General
+    output: web, pdf
+    folderitems:
+    
+    - title: AWS Onboarding
+      url: /aws-onboarding.html
+      output: web, pdf
+      type: homepage
+    
+    - title: AWS Welcome Pack
+      url: /aws-welcome-pack.html
+      output: web, pdf
+
+    - title: AWS Country Roadshows (Virtual Sessions)
+      url: /aws-country-roadshows-virtual-sessions.html
+      output: web, pdf
+
+    - title: AWS Getting Started
+      url: /aws-getting-started.html
+      output: web, pdf
+    
+    - title: AWS Naming & Tagging
+      url: /aws-naming-and-tagging.html
+      output: web, pdf
+    
+    - title: AWS Region Codes
+      url: /aws-region-codes.html
+      output: web, pdf
+    
+    - title: AWS Cloud Foundation
+      url: /aws-cloud-foundation.html
+      output: web, pdf
+    
+    - title: AWS Architecture Building Blocks
+      url: /aws-architecture-building-blocks.html
+      output: web, pdf
+
+    - title: AWS TLZ Guide
+      url: /overview-tlz.html
+      output: web, pdf
+
+  - title: DevOps
+    output: web, pdf
+    folderitems:
+
+    - title: How to setup Golang
+      url: /how-to-setup-golang.html
+      output: web, pdf
+
+    - title: How to setup AWS Nuke
+      url: /how-to-setup-aws-nuke.html
+      output: web, pdf
+          
+    - title: How to work with Terratest
+      url: /how-to-terratest.html
+      output: web, pdf
+    
+    - title: How to Assume Role
+      url: /how-to-assume-role.html
+      output: web, pdf
+          
+
+        
+          
+  

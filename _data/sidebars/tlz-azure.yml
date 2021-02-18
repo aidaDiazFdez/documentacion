@@ -1,0 +1,115 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: TLZ Guide
+  version:
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: Overview
+    output: web, pdf
+    folderitems:
+
+    - title: TLZ Overview
+      url: /overview-tlz-azure.html
+      output: web, pdf
+      type: homepage
+
+    - title: Prerequisites
+      url: /prerequisites-azure.html
+      output: web, pdf
+
+    - title: TLZ Workflow
+      url: /workflow-tlz-azure.html
+      output: web, pdf
+
+    - title: Networking Diagram
+      url: /networking-diagram-tlz-azure.html
+      output: web, pdf
+
+  - title: TLZ Deployment
+    output: web, pdf
+    folderitems:
+
+    - title: 0. Environment Setup
+      output: web, pdf
+      url: /environment-setup.html
+
+    - title: 1. Bootstrap Master Payer account
+      output: web, pdf
+      url: /bootstrap-master-payer.html
+
+    - title: 2. Bootstrap Shared Services account
+      output: web, pdf
+      url: /bootstrap-shared-services.html
+
+    - title: 3. Install GHE in Shared Services account
+      output: web, pdf
+      url: /install-ghe-in-shared-services.html
+
+    - title: 4. Install TFE in Shared Services account
+      output: web, pdf
+      url: /install-tfe-in-shared-services.html
+
+    - title: 5. Bootstrap Account-Request Form (ARF)
+      url: /install-arf.html
+      output: web, pdf
+
+    - title: 6. Bootstrap Account Vending Machine (AVM)
+      url: /install-avm.html
+      output: web, pdf
+
+    - title: 7. Baseline Logging & Security accounts
+      url: /baseline-logging-security-accounts.html
+      output: web, pdf
+
+    - title: 8. Baseline Master Payer account
+      url: /baseline-master-payer.html
+      output: web, pdf
+
+    - title: 9. Baseline Shared Services account
+      url: /baseline-shared-services.html
+      output: web, pdf
+
+    - title: 10. Baseline Core Network account
+      url: /vend-core-network.html
+      output: web, pdf
+
+    - title: 11. Baseline Federation account
+      url: /baseline-federation.html
+      output: web, pdf
+
+    - title: 12. Configure Billing
+      url: /bootstrap-and-baseline-billing.html
+      output: web, pdf
+
+    - title: 13. Active Directory
+      url: /az-federation.html
+      output: web, pdf
+
+  - title: Vend Application Account
+    output: web, pdf
+    folderitems:
+
+    - title: Vend Sandbox account
+      url: /vend-sandbox-account.html
+      output: web, pdf
+
+    - title: Vend Application account
+      url: /vend-application-account.html
+      output: web, pdf
+
+  

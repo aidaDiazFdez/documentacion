@@ -1,0 +1,52 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: Main
+  version: 
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+  - title: Overview
+    output: web, pdf
+    folderitems:
+    
+    - title: Home
+      url: /index.html
+      output: web, pdf
+      type: homepage
+
+    - title: Contribute to the community
+      url: /howto-contribute-next-generation-platform-and-automation-community.html
+      output: web, pdf
+
+    - title: AWS TLZ Guide
+      url: /overview-tlz.html
+      output: web, pdf
+      
+    - title: AWS General Documentation
+      url: /aws-onboarding.html
+      output: web, pdf  
+
+    - title: Azure General Documentation
+      url: /azure-onboarding.html
+      output: web, pdf
+    
+    - title: EaC
+      url: /eac-aws-portfolio.html
+      output: web, pdf
+    
+    
+
+

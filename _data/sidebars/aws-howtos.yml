@@ -1,0 +1,73 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: AWS How To's 
+  version: 
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: Main
+    output: web, pdf
+    folderitems:
+
+    - title: Return Home
+      url: /index.html
+      output: web, pdf
+
+  - title: How To's
+    output: web, pdf
+    folderitems:
+
+    - title: Summary
+      url: /aws-howtos-summary.html
+      output: web, pdf
+
+    - title: How to setup Golang
+      url: /how-to-setup-golang.html
+      output: web, pdf
+
+    - title: How to setup AWS Nuke
+      url: /how-to-setup-aws-nuke.html
+      output: web, pdf
+          
+    - title: How to work with Terratest
+      url: /how-to-terratest.html
+      output: web, pdf
+
+    - title: How to Test EC2 Volume Size using Terratest
+      url: /how-to-test-EC2-volume-size-with-terratest.html
+      output: web, pdf
+      
+    - title: How to Terratest with Github Actions
+      url: /how-to-terratest-github-actions.html
+      #url: /how-to-terratest.html
+      output: web, pdf
+
+    - title: How to Setup and Configure AWS CLI - Additional Info & Tips
+      url: /how-to-setup-and-configure-aws-cli-tips.html
+      #url: /how-to-terratest.html
+      output: web, pdf
+
+      
+    
+    - title: How to Assume Role
+      url: /how-to-assume-role.html
+      output: web, pdf
+          
+
+        
+          
+  

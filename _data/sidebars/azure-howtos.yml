@@ -1,0 +1,290 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: Azure How To's
+  version: 
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: Main
+    output: web, pdf
+    folderitems:
+
+    - title: Return Home
+      url: /index.html
+      output: web, pdf
+
+  - title: How To's
+    output: web, pdf
+    folderitems:
+
+    - title: Summary
+      url: /azure-howtos-summary.html
+      output: web, pdf
+
+  - title: DevOps
+    output: web, pdf
+    folderitems:
+    
+    - title: How to create a pool of Agents
+      url: /how-to-create-a-pool-of-agents.html
+      output: web, pdf
+
+    - title: How to import - export Azure Devops Releases
+      url: /how-to-import-export-azure-devops-releases.html
+      output: web, pdf
+       
+    - title: How To Publish/Download an artifact from DevOps Feed
+      url: /how-to-publish-download-an-artifact-from-devops-feed.html
+      output: web, pdf
+     
+    - title: How to git auth for Pipelines - external organizations
+      url: /how-to-git-auth-for-pipelines-external-organizations.html
+      output: web, pdf
+      subfolders:
+    
+      - title: Local CCoE DevOps setup
+        output: web, pdf
+        subfolderitems:
+
+        - title: "Create the DevOps Organization"
+          url: /create-the-devops-organization.html
+          output: web, pdf
+      
+        - title: "Setup a SPN Level 1 into a Local CCoE"
+          url: /setup-service-principal.html
+          output: web, pdf
+  
+        - title: "Install the Pipelines"
+          url: /install-pipelines.html
+          output: web, pdf
+   
+        - title: "Set an Azure subscription for DevOps Billing"
+          url: /setup-azure-subscription-devops-billing.html
+          output: web, pdf
+     
+  - title: Deployment
+    output: web, pdf
+    folderitems:
+
+    - title: How to deploy Azure resource using Jenkins
+      url: /how-to-deploy-az-resource-jenkins.html
+      output: web, pdf
+          
+    - title: How to download and deploy modules using azurem backend (TFState)
+      url: /how-to-azurem-backend.html
+      output: web, pdf
+          
+    - title: How to use ansible from Azure DevOps
+      url: /how-to-ansible-azure-devops.html
+      output: web, pdf
+          
+  - title: Azure Subscriptions
+    output: web, pdf
+    folderitems:
+
+    - title: How to create an Azure Subscription
+      url: /how-to-create-an-azure-subscription.html
+      output: web, pdf
+          
+    - title: How to transfer an Azure Subscription
+      url: /how-to-transfer-an-azure-subscription.html
+      output: web, pdf
+          
+    - title: How to delete a Subscription
+      url: /how-to-delete-subscription.html
+      output: web, pdf
+          
+    - title: How to create an Azure Hub Subscription
+      url: /how-to-create-az-hub-subscription.html
+      output: web, pdf
+          
+  - title: Resource Groups
+    output: web, pdf
+    folderitems:
+
+    - title: How to create the Resource Groups associated to a Workload
+      url: /how-to-create-the-resource-groups-associated-to-a-workload.html
+      output: web, pdf
+          
+    - title: How to create the Detect, Defend and Protect Resource Groups into an existing subscription
+      url: /how-to-create-ddp-rg.html
+      output: web, pdf
+      
+  - title: Service Principals (SPN)
+    output: web, pdf
+    folderitems:
+
+    - title: How to create a Service Principal (SPN)
+      url: /how-to-create-a-service-principal-spn.html
+      output: web, pdf
+          
+    - title: How to get a Service Principal Client ID
+      url: /how-to-get-a-service-principal-client-id.html
+      output: web, pdf
+     
+    - title: How to know the App ID of a Service Principal
+      url: /how-to-know-the-app-id-of-a-service-principal.html
+      output: web, pdf
+      
+    - title: How to remove a Service Principal
+      url: /how-to-remove-a-service-principal.html
+      output: web, pdf
+    
+  - title: Service Connections
+    output: web, pdf
+    folderitems:
+
+    - title: How to create a Service Connection
+      url: /how-to-create-a-service-connection.html
+      output: web, pdf
+        
+    - title: How to create a Service Connection with read access to SantanderCCoE repositories
+      url: /how-to-create-sc-ra-santander-repos.html
+      output: web, pdf
+        
+    - title: How to get the Service Connections configured in Azure DevOps
+      url: /how-to-service-connections-az-devops.html
+      output: web, pdf
+  
+  - title: RBAC & User Authorization
+    output: web, pdf
+    folderitems:
+
+    - title: How to set a User Access Policy
+      url: /how-to-set-a-user-access-policy.html
+      output: web, pdf
+      
+    - title: How to create a DevOps Personal Access Token (PAT)
+      url: /how-to-create-a-devops-pat.html
+      output: web, pdf
+          
+    - title: How to assign a Role to an Azure Object
+      url: /how-to-assign-role-az-object.html
+      output: web, pdf
+          
+    - title: How to assign a role to an Office 365 group
+      url: /how-to-assign-role-office365-group.html
+      output: web, pdf
+      
+    - title: How to delete an Office 365 role assignment
+      url: /how-to-delete-office365-role-assignment.html
+      output: web, pdf
+      
+    - title: How to create a role to a user by UPN
+      url: /how-to-create-role-user-by-UPN.html
+      output: web, pdf
+       
+    - title: How to delete a user role assignment
+      url: /how-to-delete-user-role-assignment.html
+      output: web, pdf
+      
+    - title: How to assign a role to a Service Principal
+      url: /how-to-assign-a-role-to-a-service-principal.html
+      output: web, pdf
+      
+    - title: How to delete a Service Principal role assignment
+      url: /how-to-delete-service-principal-role-assignment.html
+      output: web, pdf
+      
+    - title: How to give owner role in account to a Service Principal
+      url: /how-to-owner-role-service-principal.html
+      output: web, pdf
+          
+  - title: Networking
+    output: web, pdf
+    folderitems:
+
+    - title: How to Setup Hub (Deprecated)
+      url: /how-to-setup-hub-deprecated.html
+      output: web, pdf
+    
+    - title: How to Networking Bootstrap and NVAs deployment in HUB subscription
+      url: /how-to-networking-bootstrap-and-nvas-deployment-in-hub-subscription.html
+      output: web, pdf  
+    
+    - title: How to NVA-Firewall Entity Deployment in a Regional HUB
+      url: /how-to-nva-firewall-entity-deployment-in-a-regional-hub.html
+      output: web, pdf
+          
+    - title: How to create an Express Route Circuit
+      url: /how-to-create-an-express-route-circuit.html
+      output: web, pdf
+          
+    - title: How to HUB-Spoke Peering
+      url: /how-to-hub-spoke-peering.html
+      output: web, pdf
+          
+    - title: How to HUB-Spoke Peering (Custom routing)
+      url: /how-to-hub-spoke-peering-custom-routing.html
+      output: web, pdf
+          
+    - title: How to configure a second level spoke (spoke2)
+      url: /how-to-configure-spoke2.html
+      output: web, pdf
+          
+    - title: How To Setup Cloud Proxy (symantec)
+      url: /how-to-setup-cloud-proxy-symantec.html
+      output: web, pdf
+          
+    - title: How To Create F5 HA Active/Standby Module (floating IP and dynamic UDR)
+      url: /how-to-create-f5-ha-active-standby-module.html
+      output: web, pdf
+          
+    - title: How to per-entity HUB operating model
+      url: /how-to-per-entity-hub-operating-model.html
+      output: web, pdf
+          
+  - title: Virtual Machines & Load Balancers
+    output: web, pdf
+    folderitems:
+    
+    - title: How to Deploy a VM
+      url: /how-to-deploy-a-vm.html
+      output: web, pdf
+        
+    - title: How to Upload VHD to azure using powershell and prepare Image to use with Custom VM
+      url: /how-to-upload-vhd-to-azure-using-powershell-and-prepare-image-to-use-with-custom-vm.html
+      output: web, pdf
+        
+    - title: How to create an image of a virtual machine or VHD
+      url: /how-to-create-vm-vhd.html
+      output: web, pdf
+        
+    - title: How to configure two virtual machine load balancer F5 in High Availability state in Azure Cloud environment
+      url: /how-to-configure-f5-ha-azure.html
+      output: web, pdf
+          
+  - title: Key Vaults
+    output: web, pdf
+    folderitems:
+
+    - title: How to create a Key Vault
+      url: /how-to-create-a-key-vault.html
+      output: web, pdf
+      
+  - title: Other & Misc.
+    output: web, pdf
+    folderitems:
+  
+    - title: How to request a Global change in Public Cloud (Azure)
+      url: /how-to-request-global-change-azure.html
+      output: web, pdf
+      
+    - title: How to az Powershell Module Install
+      url: /how-to-az-powershell-module-install.html
+      output: web, pdf
+

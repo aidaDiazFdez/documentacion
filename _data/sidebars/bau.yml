@@ -1,0 +1,114 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: BAU
+  version: 
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+  
+  - title: Main
+    output: web, pdf
+    folderitems:
+
+    - title: Return Home
+      url: /index.html
+      output: web, pdf
+  
+  - title: CCoE BAU
+    output: web, pdf
+    folderitems:
+
+    - title: CCoE BAU Summary
+      url: /ccoe-bau-main.html
+      output: web, pdf
+    
+    - title: List of DevOps Pipeline Releases
+      url: /list-of-devops-pipeline-releases.html
+      output: web, pdf
+
+    - title: BAU VIDEOS - Tasks refresh video sessions
+      url: /bau-video-tasks-refresh-video-sessions.html
+      output: web, pdf
+      
+    - title: Platform Operations and Application Operations Roles
+      url: /platform-operations-and-application-operations-roles.html
+      output: web, pdf
+
+    - title: A look inside Azure subscriptions (PlayGround/Dev/Pre/Pro)
+      url: /a-look-inside-azure-playground-dev-pre-pro-subscriptions.html
+      output: web, pdf
+      
+    - title: Playground subscriptions lifetime and extensions
+      url: /playground-subscriptions-lifetime-and-extensions.html
+      output: web, pdf
+
+    - title: Service Principals in CCoE
+      url: /service-principals-in-ccoe.html
+      output: web, pdf
+
+    - title: Agents and Agents Pools
+      url: /agents-and-agents-pools.html
+      output: web, pdf
+
+    - title: Code Repository
+      url: /code-repository.html
+      output: web, pdf
+
+    - title: DevOps Portal
+      url: /devops-portal.html
+      output: web, pdf
+
+      subfolders:
+      - title: How to Azure Roles, billing
+        output: web, pdf
+        subfolderitems:
+
+        - title: How to add an Azure Department Administrator
+          url: /how-to-add-an-azure-department-administrator.html
+          output: web, pdf
+
+        - title: How to grant access to account billing info
+          url: /how-to-grant-access-to-account-billing-info.html
+          output: web, pdf
+
+        - title: How to control Account costs
+          url: /how-to-control-account-costs.html
+          output: web, pdf
+
+        - title: How to view all role assignments at a scope
+          url: /how-to-view-all-role-assignments-at-a-scope.html
+          output: web, pdf
+
+        - title: How to delete a Resource Group
+          url: /how-to-delete-a-resource-group.html
+          output: web, pdf
+        
+        - title: How to Azure Cost Advisor
+          url: /how-to-azure-cost-advisor.html
+          output: web, pdf
+
+        - title: How to assign roles to users
+          url: /how-to-assign-roles-to-users.html
+          output: web, pdf
+        
+        - title: How to know the subscriptions you have access to
+          url: /how-to-know-the-subscriptions-you-have-access-to.html
+          output: web, pdf
+
+        - title: How to know your own UPN
+          url: /how-to-know-your-own-upn.html
+          output: web, pdf
+

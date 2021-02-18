@@ -1,0 +1,22 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: Sidebar
+  levels: one
+  folders:
+
+  - title: Products
+    output: web
+    folderitems:
+    - title: News
+      url: /news.html
+      output: web
+    - title: TLZ Deployment
+      url: /overview-tlz.html
+      output: web
+    - title: AWS Blueprints
+      url: /eac-aws-portfolio.html
+      output: web
+    - title: Azure Blueprints
+      url: /eac-az-portfolio.html
+      output: web
